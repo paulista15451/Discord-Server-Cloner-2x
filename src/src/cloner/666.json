@@ -1,0 +1,2108 @@
+{
+    "name": "Pixel Store #3,3k",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "🔧 PROGRAMAÇÃO",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat-privado",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 PROGRAMAÇÃO",
+                        "topic": "Clorex 19cm ( Comprovado ) Mentira? Print dm",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞💉 Sub Owner⌝",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・cmd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 PROGRAMAÇÃO",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞💉 Sub Owner⌝",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💻・logs-vendas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 PROGRAMAÇÃO",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💻・logs-gerais",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 PROGRAMAÇÃO",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🤖 System",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💻・logs-verificação",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧 PROGRAMAÇÃO",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🤖 System",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🚌・Recepção",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "0",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📤┆entrada",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚌・Recepção",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "66560",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "535529191505"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "PIXEL STORE",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📜┇termos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PIXEL STORE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📘┇real-or-fake",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PIXEL STORE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3136"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2112"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "📣・Avisos",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "📙┆regras",
+                        "nsfw": false,
+                        "parent": "📣・Avisos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "📣┆avisos",
+                        "nsfw": false,
+                        "parent": "📣・Avisos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "📩┆convite",
+                        "nsfw": false,
+                        "parent": "📣・Avisos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3088"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "✨ Nitros",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀┇gift-gaming",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "✨ Nitros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀┇gift-basic",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "✨ Nitros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀┇n1tro-trimensal",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "✨ Nitros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀┇n1itro-mensal",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "✨ Nitros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀┇conta-nitrada",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "✨ Nitros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀┇ativação",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "✨ Nitros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🖊 ASSINATURAS",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1115136",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥┇hbo-max",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🖊 ASSINATURAS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥┇prime-vídeo",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🖊 ASSINATURAS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥┇crunchyroll",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🖊 ASSINATURAS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥┇disney-plus",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🖊 ASSINATURAS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔊┇spotify",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🖊 ASSINATURAS",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "@Metodos",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🥦┇pack",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Metodos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍎┇link-trimestral",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Metodos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍎┇ifood-grátis",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Metodos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍎┇metodo-nfa",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Metodos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍎┇shopee-grátis",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Metodos",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "@Outros",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏆┇painel-membros",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Outros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏆┇membros-online",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Outros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏆┇membros-off",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "@Outros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🎮 JOGOS",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💣┇steam-key",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎮 JOGOS",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💣┇xbox-gamepass",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎮 JOGOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "PIXEL COMMUNITY",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📒┇feedback",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PIXEL COMMUNITY",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Client⌝",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "66560",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Booster 1x⌝",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚛┇payments",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PIXEL COMMUNITY",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒┇entregas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "PIXEL COMMUNITY",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧┇leilão",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "PIXEL COMMUNITY",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Booster 2x ⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⌞Client⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Booster 1x⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🛒 CARRINHO",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "👻 Suport",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "137439395840",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎫┆ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👻 Suport",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔖〢rafaeljunio_",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👻 Suport",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔖〢venenox0",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👻 Suport",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔖〢n3vees",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👻 Suport",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔖〢lichzz4",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👻 Suport",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔖・dnike_",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👻 Suport",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "💎 BOOSTER",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "274877910016"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔮┆benéficios-boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💎 BOOSTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔮┆logs-boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💎 BOOSTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "⚙ client/booster's",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📍┆servidor-priv",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚙ client/booster's",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Booster 2x ⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Client⌝",
+                                "allow": "2048",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Booster 1x⌝",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "📰・Interação",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬┆chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📰・Interação",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥┆midias",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📰・Interação",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "52224",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😂┆memes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📰・Interação",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "52224",
+                                "deny": "131072"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍇┆commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📰・Interação",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "👤 PERFIL",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "🎭┆gif",
+                        "nsfw": false,
+                        "parent": "👤 PERFIL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎭┆random",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👤 PERFIL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "🎭┆icons",
+                        "nsfw": false,
+                        "parent": "👤 PERFIL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "⌞Dropador icons⌝",
+                                "allow": "314432",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_NEWS",
+                        "name": "🎭┆banner",
+                        "nsfw": false,
+                        "parent": "👤 PERFIL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "👽・Parceiros",
+                "permissions": [
+                    {
+                        "roleName": "⌞Member⌝",
+                        "allow": "0",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "⌞Parceiros⌝",
+                        "allow": "478272",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "65536",
+                        "deny": "3072"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📝┆requisitos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』ғᴜʀɪᴀ-sᴛᴏʀᴇ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "478272",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65536",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』ɴᴛᴘ-ᴄᴏᴍᴍᴜɴɪᴛʏ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "183296",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』ᴛɴʏ-ɢɪғs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2048",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "183296",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』ʙʀ-ʜᴏsᴛɪɴɢ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "180224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』atrix-community",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65536",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "478272",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "180224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "180224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65536",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "180224",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "180224",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "180224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "『🤝』vaga",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👽・Parceiros",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "⌞Member⌝",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "⌞Parceiros⌝",
+                                "allow": "180224",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "regras",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "2048"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "apenas-moderadores",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "💉・hub-community",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "👑",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "/op",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "/Pixel Community",
+            "color": "#ff1493",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞❤️‍🩹 Owner⌝",
+            "color": "#000103",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Dona⌝",
+            "color": "#f603f7",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞💉 Sub Owner⌝",
+            "color": "#121315",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞🎓 Support⌝",
+            "color": "#2777ef",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Dropador icons⌝",
+            "color": "#db0000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞🥰 Amigos⌝",
+            "color": "#fff300",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Parceria premium⌝",
+            "color": "#f59900",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Client Black⌝",
+            "color": "#090808",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Client Premium⌝",
+            "color": "#ce6300",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Client⌝",
+            "color": "#0fe700",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Booster 2x ⌝",
+            "color": "#ff5ce2",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Parceiros⌝",
+            "color": "#ae4b01",
+            "hoist": true,
+            "permissions": "137439264833",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "⌞Member⌝",
+            "color": "#ff5400",
+            "hoist": true,
+            "permissions": "5085277258497",
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "🤖 System",
+            "color": "#0c0d0e",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "65537",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1701381561597,
+    "guildID": "1060107697632055316",
+    "id": "1179904530331074560",
+    "iconURL": "https://cdn.discordapp.com/icons/1060107697632055316/cba21a96396306f332365853b62fdc69.webp",
+    "splashURL": "https://cdn.discordapp.com/splashes/1060107697632055316/46f4f1fca73b6bf1f9aafa5fa61f4d9f.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/1060107697632055316/a_02c5e2e854892f1303dd61fc6e95570a.webp"
+}
